@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/Fiufew/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Fiufew)](https://github.com/Fiufew/leetcode-stats)
 <!--
 **Fiufew/Fiufew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
