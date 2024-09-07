@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![](https://leetcard.fiufew.cool/fiufew?border=0&radius=20)
 <!--
 **Fiufew/Fiufew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
