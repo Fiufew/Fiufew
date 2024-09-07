@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://leetcard.Fiufew.cool/Fiufew?border=0&radius=20)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Fiufew)](https://leetcode.com/Fiufew)
 <!--
 **Fiufew/Fiufew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
