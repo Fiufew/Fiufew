@@ -1,5 +1,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Fiufew?border=0&radius=20)](https://leetcode.com/Fiufew)
+
+![snake gif](https://github.com/Fiufw/Fiufew/blob/output/github-contribution-grid-snake.gif)
 <!--
 **Fiufew/Fiufew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
