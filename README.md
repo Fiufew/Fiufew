@@ -16,8 +16,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiufew)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My technology stack
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=27A0D9)]
-
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=27A0D9)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiufew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
