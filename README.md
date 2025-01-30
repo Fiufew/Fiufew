@@ -20,8 +20,7 @@
 ### 🫡 Always ready to cooperate
 
 ### 📫 You can reach out to me ⬇️
-[![My сontacts](https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,nginx,git,docker,linux)](https://skillicons.dev)
-
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v14/icons/telegram.svg" />
 
 ## Github statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiufew)](https://github.com/anuraghazra/github-readme-stats)
