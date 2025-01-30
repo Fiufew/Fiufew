@@ -1,5 +1,6 @@
 ![Header](https://github.com/Fiufew/Fiufew/blob/main/assets/picture_my_header.png)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Programming+is+the+art+of+creating+future+today)](https://git.io/typing-svg)
 <h3 align="center">"Programming is the art of creating future today"</h3>
 <h3 align="center">
 <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=Python&logoColor=000000"/>
