@@ -19,7 +19,9 @@
 
 ### 🫡 Always ready to cooperate
 
-### 📫 You can reach out to me through the contacts listed in the profile
+### 📫 You can reach out to me ⬇️
+[![My сontacts](https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,nginx,git,docker,linux)](https://skillicons.dev)
+
 
 ## Github statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiufew)](https://github.com/anuraghazra/github-readme-stats)
