@@ -1,6 +1,6 @@
 ![Header](https://github.com/Fiufew/Fiufew/blob/main/assets/picture_my_header.png)
 
-## "Programming is the art of creating future today"
+<h3 align="center">"Programming is the art of creating future today"</h3>
 
 ### 😁 I have a keen interest in AI
 
