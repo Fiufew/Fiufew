@@ -22,6 +22,8 @@
 
 ## My technology stack
 <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=Python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=Python&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=Python&logoColor=000000"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiufew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
