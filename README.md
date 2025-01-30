@@ -10,8 +10,10 @@
 
 ### 📫 You can contact me through the contacts listed in the profile
 
-## Some statistics
+## Github statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiufew)](https://github.com/anuraghazra/github-readme-stats)
+
+## My technology stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiufew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Leetcode statistics
