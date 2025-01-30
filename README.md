@@ -10,6 +10,7 @@
     <img alt="github-snake" src="github-snake.svg"/>
   </picture>
 </h3>
+
 ---
 
 ### 😁 I have a keen interest in AI
