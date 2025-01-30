@@ -25,7 +25,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiufew)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My technology stack and languages
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,nginx,git,docker,linux)](https://skillicons.dev)
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiufew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
