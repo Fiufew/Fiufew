@@ -1,6 +1,6 @@
 ![Header](https://github.com/Fiufew/Fiufew/blob/main/assets/picture_my_header.png)
 
-## Programming is the art of creating future today
+## "Programming is the art of creating future today"
 ---
 ### 😁 Addicting to studying neural networks
 
