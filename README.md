@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=Python&logoColor=000000"/>
 </h3>
 
+---
 
 ### 😁 I have a keen interest in AI
 
