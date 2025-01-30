@@ -19,11 +19,11 @@
 
 #### 😁 I have a keen interest in AI
 
-### 😍 Love developing websites
+#### 😍 Love developing websites
 
-### 🫡 Always ready to cooperate
+#### 🫡 Always ready to cooperate
 
-### 📬 You can reach out to me through the contacts listed in the profile above
+#### 📬 You can reach out to me through the contacts listed in the profile above
 
 ## 💎 Github statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiufew)](https://github.com/anuraghazra/github-readme-stats)
