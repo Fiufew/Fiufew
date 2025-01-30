@@ -2,8 +2,8 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7D95D&width=600&lines=%22Programming+is+the+art+of+creating+future+today%22" alt="Typing SVG" /></a></h3>
 <h3 align="center">
-  <img height="35" width="35" src="https://cdn.simpleicons.org/telegram" /> 
-  <img height="35" width="35" src="https://cdn.simpleicons.org/discord" />
+  <a href="https://t.me/aloneliness"><img height="35" width="35" src="https://cdn.simpleicons.org/telegram" /> 
+  <a href="https://discordapp.com/users/397342645049098246"><img height="35" width="35" src="https://cdn.simpleicons.org/discord" />
 </h3>
 <h3 align="center">
   <picture>
