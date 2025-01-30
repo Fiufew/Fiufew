@@ -1,6 +1,7 @@
 ![Header](https://github.com/Fiufew/Fiufew/blob/main/assets/picture_my_header.png)
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7D95D&width=600&lines=%22Programming+is+the+art+of+creating+future+today%22" alt="Typing SVG" /></a></h3>
+<img height="20" width="20" src="https://cdn.simpleicons.org/telegram/white" />
 <h3 align="center">
   <picture>
     <source
@@ -19,7 +20,7 @@
 
 ### 🫡 Always ready to cooperate
 
-## 📫 You can reach out to me <img height="20" width="20" src="https://cdn.simpleicons.org/telegram/white" />
+## 📫 You can reach out to me 
 
 
 ## 💎Github statistics
