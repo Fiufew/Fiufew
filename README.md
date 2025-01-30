@@ -1,6 +1,8 @@
 ![Header](https://github.com/Fiufew/Fiufew/blob/main/assets/picture_my_header.png)
 
+<h3 align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7941F&center=true&width=600&lines=%22Programming+is+the+art+of+creating+future+today%22)](https://git.io/typing-svg)
+</h3>
 
 <h3 align="center">
 <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=Python&logoColor=000000"/>
