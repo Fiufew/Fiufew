@@ -1,7 +1,7 @@
 ![Header](https://github.com/Fiufew/Fiufew/blob/main/assets/picture_my_header.png)
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F7D95D&width=600&lines=%22Programming+is+the+art+of+creating+future+today%22" alt="Typing SVG" /></a></h3>
-<h3 align="center"><img height="35" width="35" src="https://cdn.simpleicons.org/telegram/white" /></h3>
+<h3 align="center"><img height="35" width="35" src="https://cdn.simpleicons.org/telegram/white" /><img height="35" width="35" src="https://cdn.simpleicons.org/gmail" /></h3>
 <h3 align="center">
   <picture>
     <source
