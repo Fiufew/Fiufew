@@ -19,7 +19,7 @@
 
 ### 🫡 Always ready to cooperate
 
-### 📫 You can reach out to me <img height="16" width="16" src="https://cdn.simpleicons.org/telegram/white" />
+### 📫 My contacts <img height="16" width="16" src="https://cdn.simpleicons.org/telegram/white" />
 
 
 ## 💎Github statistics
