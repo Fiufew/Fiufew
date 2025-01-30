@@ -6,7 +6,7 @@
 
 ### 😍 Love developing websites
 
-### 🫡 I am ready to cooperate
+### 🫡 Always ready to cooperate
 
 ### 📫 You can contact me through the contacts listed in the profile
 
