@@ -20,7 +20,7 @@
 ### 🫡 Always ready to cooperate
 
 ### 📫 You can reach out to me ⬇️
-<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/white" />
+<img height="20" width="20" src="https://cdn.simpleicons.org/telegram/white" />
 
 ## Github statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiufew)](https://github.com/anuraghazra/github-readme-stats)
