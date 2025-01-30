@@ -20,8 +20,6 @@
   </picture>
 </p>
 
-
-
 ---
 
 ### 😁 I have a keen interest in AI
