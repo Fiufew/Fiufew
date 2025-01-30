@@ -25,6 +25,8 @@
 
 ### 📬 You can reach out to me through the contacts listed in the profile above
 
+<!-- Spacer -->
+
 ## 💎 Github statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiufew)](https://github.com/anuraghazra/github-readme-stats)
 
