@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiufew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiufew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Leetcode statistics
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Fiufew?border=0&radius=20)](https://leetcode.com/Fiufew)
