@@ -22,27 +22,27 @@
 
 ---
 
-### 😁 I have a keen interest in AI
+### 😁 Увлекаюсь изучением и разработкой нейросетей
 
-### 😍 Love developing websites
+### 😍 Люблю разрабатывыать веб-сайты
 
-### 🫡 Always ready to cooperate
+### 🫡 Всегда готов к сотрудничеству
 
-### 📬 You can reach out to me through the contacts listed in the profile above
+### 📬 Вы можете связаться со мной по контаком в шапке профиля
 
 ---
 
-## 💎 Github statistics
+## 💎 Статистика GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiufew)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 
-## 🎈 My technology stack and languages
+## 🎈 Мой стек технологий и стек
 [![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,nginx,git,docker,linux,html,css)](https://skillicons.dev)
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiufew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 
-## ✨ Leetcode statistics
+## ✨ Статистика Leetcode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Fiufew?border=0&radius=20)](https://leetcode.com/Fiufew)
