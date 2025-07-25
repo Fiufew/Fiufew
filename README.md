@@ -1,6 +1,5 @@
 ![Header](https://github.com/Fiufew/Fiufew/blob/main/assets/picture_my_header.png)
 
-alt="Typing SVG" /></a></h3>
 <h3 align="center"><img src="https://komarev.com/ghpvc/?username=Fiufew&label=views&abbreviated=true&color=yellow&style=for-the-badge" alt=""/></h3>
 <h6 align="center" style="margin: 0; padding: 0; display: flex; justify-content: center; gap: 10px;">
   <a href="https://t.me/alonel1ness">
@@ -21,17 +20,7 @@ alt="Typing SVG" /></a></h3>
   </picture>
 </p>
 
----
 
-### Увлекаюсь изучением и разработкой нейросетей
-
-### Люблю разрабатывать веб-сайты
-
-### Всегда готов к сотрудничеству
-
-### Вы можете связаться со мной по контактам в шапке профиля
-
----
 
 ## 💎 Статистика GitHub
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiufew)](https://github.com/anuraghazra/github-readme-stats)
